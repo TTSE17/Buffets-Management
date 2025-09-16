@@ -2,4 +2,4 @@ Developed the backend for a buffet management system that covers the full cycle 
 
 Technologies: ASP.NET Core, Microsoft SQL Server, Entity Framework Core.
 
-[Swagger]([https://TTSE17.github.io/Facebook/Login_Signup/login_signup.html](https://buffet.runasp.net/swagger/index.html))
+[Swagger]([https://TTSE17.github.io/Facebook/Login_Signup/login_signup.html](https://buffet.runasp.net/swagger/index.html)
