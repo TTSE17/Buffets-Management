@@ -1,0 +1,3 @@
+Developed the backend for a buffet management system that covers the full cycle of buffet operations. Features include product management (categories, details, and pricing), inventory and supply tracking, and real-time stock updates, and customer order handling with status updates and notifications. Implemented user roles (owner, staff, customer) with tailored functionalities and admin dashboards for monitoring requests and staff preparation. The system also generates detailed reports on sales, expenses, and spoilage, with export options in Excel and PDF.
+
+Technologies: ASP.NET Core, Microsoft SQL Server, Entity Framework Core.
